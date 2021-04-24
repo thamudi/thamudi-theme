@@ -1,0 +1,21 @@
+{
+    "name": "thamudi-theme",
+    "displayName": "thamudi-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "thamudi-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/thamudi-theme-color-theme.json"
+            }
+        ]
+    }
+}
