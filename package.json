@@ -1,13 +1,24 @@
 {
     "name": "thamudi-theme",
     "displayName": "thamudi-theme",
-    "description": "",
+    "description": "Personalized dark contrast theme",
+    "publisher": "thamudi",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thamudi/thamudi-theme"
+    },
     "engines": {
         "vscode": "^1.55.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "dark",
+        "contrast",
+        "thamudi",
+        "thamudi-theme"
     ],
     "contributes": {
         "themes": [
