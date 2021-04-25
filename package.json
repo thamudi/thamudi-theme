@@ -3,7 +3,7 @@
     "displayName": "thamudi-theme",
     "description": "Personalized dark contrast theme",
     "publisher": "thamudi",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
