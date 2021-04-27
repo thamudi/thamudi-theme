@@ -19,7 +19,11 @@
         "dark",
         "contrast",
         "thamudi",
-        "thamudi-theme"
+        "thamudi-theme",
+        "js",
+        "js theme",
+        "ts",
+        "ts theme"
     ],
     "contributes": {
         "themes": [
