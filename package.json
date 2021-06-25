@@ -19,14 +19,20 @@
         "dark",
         "contrast",
         "thamudi",
-        "thamudi-theme"
+        "thamudi-theme",
+        "night"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "thamudi-theme",
+                "label": "thamudi-theme-dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/thamudi-theme-color-theme.json"
+                "path": "./themes/thamudi-theme-dark.json"
+            },
+            {
+                "label": "thamudi-theme-night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/thamudi-theme-night.json"
             }
         ]
     }
