@@ -20,7 +20,11 @@
         "contrast",
         "thamudi",
         "thamudi-theme",
-        "night"
+        "night",
+        "js",
+        "js theme",
+        "ts",
+        "ts theme"
     ],
     "contributes": {
         "themes": [
