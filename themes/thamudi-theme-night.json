@@ -47,7 +47,7 @@
         "editorIndentGuide.background": "#10273570",
         "editorInfo.foreground": "#9BB5C470",
         "editorLineNumber.activeForeground": "#9BB5C4",
-        "editorLineNumber.foreground": "#37393Cc0",
+        "editorLineNumber.foreground": "#9bb5c498",
         "editorLink.activeForeground": "#9BB5C4",
         "editorMarkerNavigation.background": "#9BB5C405",
         "editorOverviewRuler.border": "#10151A",
@@ -385,7 +385,7 @@
                 "variable.other.object.js",
                 "storage.type.js",
                 "string.other.link.title.markdown",
-                "variable.other.readwrite.js",
+                // "variable.other.readwrite.js",
                 "variable.other.property.js"
             ],
             "settings": {
@@ -407,6 +407,7 @@
                 "entity.name.function",
                 "markup.bold",
                 "markup.bold.markdown",
+                "variable.other.readwrite",
                 "markup.italic.markdown",
                 "meta.class-method.js entity.name.function.js",
                 "variable.function.constructor",
